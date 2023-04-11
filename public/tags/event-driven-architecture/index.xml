@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Event Driven Architecture on Marco Berlot</title>
+    <link>https://marcoberlot.com/tags/event-driven-architecture/</link>
+    <description>Recent content in Event Driven Architecture on Marco Berlot</description>
+    <image>
+      <title>Marco Berlot</title>
+      <url>https://marcoberlot.com/avatar.jpg</url>
+      <link>https://marcoberlot.com/avatar.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 20 Nov 2022 09:03:20 -0800</lastBuildDate><atom:link href="https://marcoberlot.com/tags/event-driven-architecture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Leverage AWS Step Functions to Build an Event-Driven Architecture</title>
+      <link>https://marcoberlot.com/posts/my-first-post/</link>
+      <pubDate>Sun, 20 Nov 2022 09:03:20 -0800</pubDate>
+      
+      <guid>https://marcoberlot.com/posts/my-first-post/</guid>
+      <description>Introduction Event-driven architectures have grown in popularity as they offer increased flexibility, scalability, and responsiveness to modern application demands. These architectures often involve numerous services and queues or message brokers, which can be challenging to manage. In this blog post, we&amp;rsquo;ll explore how AWS Step Functions can be a powerful tool for building and managing event-driven architectures through orchestration.
+Section 1: Event-Driven Architectures - The Need for Coreography or Orchestration In event-driven architectures, multiple services interact with each other through events.</description>
+    </item>
+    
+  </channel>
+</rss>
