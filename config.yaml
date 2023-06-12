@@ -60,12 +60,12 @@ params:
   ShowRssButtonInSectionTermList: true
   ShowToc: true
   # comments: false
-  images: ["avatar.jpg"]
+  images: ["avatar.png"]
 
   profileMode:
     enabled: true
     title: Marco Berlot
-    imageUrl: avatar.jpg
+    imageUrl: avatar.png
     imageTitle: my image
     # imageWidth: 120
     # imageHeight: 120
